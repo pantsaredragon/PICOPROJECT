@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{803FD0C6-D64E-4E16-9DC3-1DAEC859A3D2}") = "PicoProject", "PicoProject.vgdbproj", "{C6EB6327-D8A2-489F-B783-A29655952EED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		MinSizeRel|VisualGDB = MinSizeRel|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+		RelWithDebInfo|VisualGDB = RelWithDebInfo|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6EB6327-D8A2-489F-B783-A29655952EED}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{C6EB6327-D8A2-489F-B783-A29655952EED}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{C6EB6327-D8A2-489F-B783-A29655952EED}.MinSizeRel|VisualGDB.ActiveCfg = MinSizeRel|VisualGDB
+		{C6EB6327-D8A2-489F-B783-A29655952EED}.MinSizeRel|VisualGDB.Build.0 = MinSizeRel|VisualGDB
+		{C6EB6327-D8A2-489F-B783-A29655952EED}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{C6EB6327-D8A2-489F-B783-A29655952EED}.Release|VisualGDB.Build.0 = Release|VisualGDB
+		{C6EB6327-D8A2-489F-B783-A29655952EED}.RelWithDebInfo|VisualGDB.ActiveCfg = RelWithDebInfo|VisualGDB
+		{C6EB6327-D8A2-489F-B783-A29655952EED}.RelWithDebInfo|VisualGDB.Build.0 = RelWithDebInfo|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C503F0B-CAA2-43DA-B60A-B814FCBA662D}
+	EndGlobalSection
+EndGlobal
